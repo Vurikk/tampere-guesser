@@ -1,44 +1,5 @@
 [
     {
-    "name": "Suolioja",
-    "lat": 61.447391,
-    "lng": 23.816412,
-    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Suolioja_Tampere.jpg/1280px-Suolioja_Tampere.jpg",
-    "imageSource": "https://commons.wikimedia.org/wiki/File:Suolioja_Tampere.jpg",
-    "imageCredit": "Photo: Aulis Eskola / Wikimedia Commons / CC BY 4.0",
-    "imageLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
-    "region": "Hervanta",
-    "hint": "West of Hervanta, look for a narrow forest stream connecting two lakes. One lake's name begins with Särki, the other with Suoli.",
-    "info": "Suolioja carries water from Särkijärvi into Suolijärvi through the forest west of Hervanta. Its width varies along the route, narrowing in places to a small woodland stream. The water eventually continues through lakes in neighbouring Lempäälä towards Pyhäjärvi.",
-    "infoSource": "https://kulttuuritoimitus.fi/artikkelit-kolumnit/kolumnit-parasta-juuri-nyt/parasta-juuri-nyt-27-4-2021-tampereen-5-parasta-puroa-pappilanoja-suolioja-myllypuro-parrinkoski-vihioja/"
-    },
-    {
-    "name": "Halimasjärvi",
-    "lat": 61.507000,
-    "lng": 23.931000,
-    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Halimasj%C3%A4rvi_20210611_114929.jpg/1280px-Halimasj%C3%A4rvi_20210611_114929.jpg",
-    "imageSource": "https://commons.wikimedia.org/wiki/File:Halimasj%C3%A4rvi_20210611_114929.jpg",
-    "imageCredit": "Photo: J Hokkanen / Wikimedia Commons / CC BY-SA 4.0",
-    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
-    "region": "Atala",
-    "hint": "Look east of Atala for a small lake enclosed by forest. A path from the end of Sompakatu leads towards its shoreline trail and boardwalks.",
-    "info": "The forests around Halimasjärvi were first protected in 1988, and the reserve was expanded in 2013. Much of the woodland consists of mature spruce forest, with fallen trees left to support fungi and insects. Red-throated divers regularly nest on the lake, while bats hunt along its shores after dusk.",
-    "infoSource": "https://www.tampere.fi/luonto-ja-ymparisto/luonnonsuojelu/luonnonsuojelualueet-ja-suojelukohteet/halimasjarven-luonnonsuojelualue"
-    },
-    {
-    "name": "Kirkkokiven laavu",
-    "lat": 61.603840,
-    "lng": 23.989742,
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Kirkkokiven_laavu.jpg/1280px-Kirkkokiven_laavu.jpg",
-    "imageSource": "https://commons.wikimedia.org/wiki/File:Kirkkokiven_laavu.jpg",
-    "imageCredit": "Photo: Aulis Eskola / Wikimedia Commons / CC BY-SA 4.0",
-    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
-    "region": "Kintulammi",
-    "hint": "In Kintulammi's forest, follow the short accessible trail from the P1 parking area. Look for a steep-roofed wooden shelter near a large boulder.",
-    "info": "Designed by architect Malin Moisio and completed in 2018, this woodland shelter takes its name from a nearby glacial boulder. According to local tradition, horse herders used the boulder as a church in the 1700s. Openings in the shelter's wooden walls frame small views of the surrounding forest.",
-    "infoSource": "https://tilasto.info/kirkkokivi/"
-    },
-    {
     "name": "Pyynikin näkötorni",
     "lat": 61.49633,
     "lng": 23.73200,
@@ -50,6 +11,32 @@
     "hint": "Follow the forest paths uphill to the ridge. A café famous for its doughnuts sits at the foot of this tower.",
     "info": "Completed in 1929, this 26-metre observation tower was built from local red granite. Its position on top of the Pyynikki ridge gives visitors views towards both Näsijärvi and Pyhäjärvi. The tower opened in the year of Tampere's 150th anniversary.",
     "infoSource": "https://en.wikipedia.org/wiki/Pyynikki_observation_tower"
+    },
+    {
+        "name": "Hatanpään arboretum",
+        "lat": 61.482441,
+        "lng": 23.751818,
+        "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Hatanp%C3%A4%C3%A4_Arboretum.jpg/1280px-Hatanp%C3%A4%C3%A4_Arboretum.jpg",
+        "imageSource": "https://commons.wikimedia.org/wiki/File:Hatanp%C3%A4%C3%A4_Arboretum.jpg",
+        "imageCredit": "Photo: Tiia Monto / Wikimedia Commons / CC BY-SA 3.0",
+        "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "region": "Hatanpää",
+        "hint": "Look for garden paths and a small footbridge near the shore of Pyhäjärvi, south of Hatanpää Manor.",
+        "info": "Planting at Hatanpää Arboretum began in 1973. Most of the arboretum was created on land built up with imported soil along the lakeshore. Its rock garden was added in 1994.",
+        "infoSource": "https://www.tampere.fi/luonto-ja-ymparisto/puistot/hatanpaan-arboretum"
+    },
+    {
+        "name": "Lielahden kartano",
+        "lat": 61.516094,
+        "lng": 23.686503,
+        "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Lielahti_manor.jpg/1280px-Lielahti_manor.jpg",
+        "imageSource": "https://commons.wikimedia.org/wiki/File:Lielahti_manor.jpg",
+        "imageCredit": "Photo: Juha Laaksoharju / Wikimedia Commons / CC BY-SA 3.0",
+        "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "region": "Hiedanranta",
+        "hint": "Head towards the shore of Näsijärvi beside the old factory area. Look for a red-brick manor surrounded by parkland.",
+        "info": "The manor's main building was completed in 1893 during the von Nottbeck family's ownership. The estate once included a huge cowshed and a private railway seven kilometres long. In 1913, a new owner began transforming the estate into a pulp mill complex.",
+        "infoSource": "https://hiedanranta.fi/tietoa-kaupunginosasta/historia/"
     },
     {
     "name": "Tampereen tuomiokirkko",
@@ -78,6 +65,19 @@
     "infoSource": "https://tampereenseurakunnat.fi/en/lutheran-church-in-tampere/churches/kaleva-church/"
     },
     {
+    "name": "Halimasjärvi",
+    "lat": 61.507000,
+    "lng": 23.931000,
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Halimasj%C3%A4rvi_20210611_114929.jpg/1280px-Halimasj%C3%A4rvi_20210611_114929.jpg",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Halimasj%C3%A4rvi_20210611_114929.jpg",
+    "imageCredit": "Photo: J Hokkanen / Wikimedia Commons / CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "region": "Atala",
+    "hint": "Look east of Atala for a small lake enclosed by forest. A path from the end of Sompakatu leads towards its shoreline trail and boardwalks.",
+    "info": "The forests around Halimasjärvi were first protected in 1988, and the reserve was expanded in 2013. Much of the woodland consists of mature spruce forest, with fallen trees left to support fungi and insects. Red-throated divers regularly nest on the lake, while bats hunt along its shores after dusk.",
+    "infoSource": "https://www.tampere.fi/luonto-ja-ymparisto/luonnonsuojelu/luonnonsuojelualueet-ja-suojelukohteet/halimasjarven-luonnonsuojelualue"
+    },
+    {
     "name": "Näsilinna",
     "lat": 61.50417,
     "lng": 23.75333,
@@ -91,30 +91,17 @@
     "infoSource": "https://en.wikipedia.org/wiki/N%C3%A4silinna"
     },
     {
-        "name": "Lielahden kartano",
-        "lat": 61.516094,
-        "lng": 23.686503,
-        "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Lielahti_manor.jpg/1280px-Lielahti_manor.jpg",
-        "imageSource": "https://commons.wikimedia.org/wiki/File:Lielahti_manor.jpg",
-        "imageCredit": "Photo: Juha Laaksoharju / Wikimedia Commons / CC BY-SA 3.0",
-        "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
-        "region": "Hiedanranta",
-        "hint": "Head towards the shore of Näsijärvi beside the old factory area. Look for a red-brick manor surrounded by parkland.",
-        "info": "The manor's main building was completed in 1893 during the von Nottbeck family's ownership. The estate once included a huge cowshed and a private railway seven kilometres long. In 1913, a new owner began transforming the estate into a pulp mill complex.",
-        "infoSource": "https://hiedanranta.fi/tietoa-kaupunginosasta/historia/"
-    },
-    {
-        "name": "Hatanpään arboretum",
-        "lat": 61.482441,
-        "lng": 23.751818,
-        "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Hatanp%C3%A4%C3%A4_Arboretum.jpg/1280px-Hatanp%C3%A4%C3%A4_Arboretum.jpg",
-        "imageSource": "https://commons.wikimedia.org/wiki/File:Hatanp%C3%A4%C3%A4_Arboretum.jpg",
-        "imageCredit": "Photo: Tiia Monto / Wikimedia Commons / CC BY-SA 3.0",
-        "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
-        "region": "Hatanpää",
-        "hint": "Look for garden paths and a small footbridge near the shore of Pyhäjärvi, south of Hatanpää Manor.",
-        "info": "Planting at Hatanpää Arboretum began in 1973. Most of the arboretum was created on land built up with imported soil along the lakeshore. Its rock garden was added in 1994.",
-        "infoSource": "https://www.tampere.fi/luonto-ja-ymparisto/puistot/hatanpaan-arboretum"
+    "name": "Suolioja",
+    "lat": 61.447391,
+    "lng": 23.816412,
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Suolioja_Tampere.jpg/1280px-Suolioja_Tampere.jpg",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Suolioja_Tampere.jpg",
+    "imageCredit": "Photo: Aulis Eskola / Wikimedia Commons / CC BY 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "region": "Hervanta",
+    "hint": "West of Hervanta, look for a narrow forest stream connecting two lakes. One lake's name begins with Särki, the other with Suoli.",
+    "info": "Suolioja carries water from Särkijärvi into Suolijärvi through the forest west of Hervanta. Its width varies along the route, narrowing in places to a small woodland stream. The water eventually continues through lakes in neighbouring Lempäälä towards Pyhäjärvi.",
+    "infoSource": "https://kulttuuritoimitus.fi/artikkelit-kolumnit/kolumnit-parasta-juuri-nyt/parasta-juuri-nyt-27-4-2021-tampereen-5-parasta-puroa-pappilanoja-suolioja-myllypuro-parrinkoski-vihioja/"
     },
     {
         "name": "Kampusareena — Tampere University",
@@ -141,5 +128,18 @@
         "hint": "Look for a wooden villa at the lakeside end of Uramonkatu, beside Pyhäjärvi.",
         "info": "Tahmelan huvila was built as a summer villa in the 1890s on land belonging to Harjupispa farm. It is also known as Tahmelanniemen huvila or Pispan huvila.",
         "infoSource": "https://www.tahmelanhuvila.fi/historia/"
-    }
+    },
+    {
+    "name": "Kirkkokiven laavu",
+    "lat": 61.603840,
+    "lng": 23.989742,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Kirkkokiven_laavu.jpg/1280px-Kirkkokiven_laavu.jpg",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Kirkkokiven_laavu.jpg",
+    "imageCredit": "Photo: Aulis Eskola / Wikimedia Commons / CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "region": "Kintulammi",
+    "hint": "In Kintulammi's forest, follow the short accessible trail from the P1 parking area. Look for a steep-roofed wooden shelter near a large boulder.",
+    "info": "Designed by architect Malin Moisio and completed in 2018, this woodland shelter takes its name from a nearby glacial boulder. According to local tradition, horse herders used the boulder as a church in the 1700s. Openings in the shelter's wooden walls frame small views of the surrounding forest.",
+    "infoSource": "https://tilasto.info/kirkkokivi/"
+    },
 ]

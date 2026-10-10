@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Tampere Guesser</title>
+
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+    <link rel="stylesheet" href="./style.css">
+
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" defer></script>
+    <script src="./map.js" defer></script>
+    <script src="./dialogs.js" defer></script>
+    <script src="./game.js" defer></script>
+</head>
+
+<dialog id="tutorial" aria-labelledby="tutorial-title">
+    <h2 id="tutorial-title">How to play</h2>
+    <p>Can you find a location in Tampere?</p>
+
+    <ul>
+        <li>Inspect the photo clue</li>
+        <li>Click the map to place your marker.</li>
+        <li>Press <strong>Confirm guess</strong> when you are ready</li>
+        <li>After each guess a new clue appears</li>
+    </ul>
+
+    <p>You have <strong>4 guesses</strong>. Get within <strong>100 metres</strong> to win!</p>
+
+    <button id="close-tutorial-button" type="button" autofocus>Let's play!</button>
+</dialog>
+
+<dialog id="location-dialog" aria-labelledby="location-title">
+    <p id="location-result"></p>
+    <h2 id="location-title"></h2>
+
+    <img id="location-image" alt="">
+    <p id="location-info"></p>
+
+    <p>
+        <a id="location-source" target="_blank" rel="noopener noreferrer">Learn more about this place</a>
+    </p>
+
+    <div class="location-actions">
+        <button id="close-location-button" type="button" autofocus>Back to map</button>
+        <button id="next-round-button" type="button" disabled>Next round</button>
+    </div>
+</dialog>
+
+<body>
+    <header>
+        <h1>Tampere Guesser</h1>
+        <p>How well do you know Tampere?</p>
+        <button id="how-to-play-button" type="button">How to play</button>
+    </header>
+    
+    <main>
+        <div class="game-layout">
+            <aside class="clue-panel panel">
+                <h2>Your first clue</h2>
+
+                <img id="place-image" alt="Photograph of the mystery location">
+
+                <p class="photo-credit">
+                    <a id="photo-source" target="_blank" rel="noopener noreferrer">Original photo</a>
+                </p>
+
+                <h2>Follow the clues</h2>
+                <p class="clue-description">Each incorrect guess reveals another clue.</p>
+                <ul id="hints"></ul>
+            </aside>
+            
+            <section class="game-panel">
+                <div id="map"></div>
+
+                <div class="">
+                    <div class="">
+                        <p id="attempts">Guesses: 0 / 4</p>
+                        <button id="guess-button" type="button">Confirm guess</button>
+                    </div>
+
+                    <p id="feedback" role="status">Click the map to choose your location.</p>
+                </div>
+            </section>
+        </div>
+    </main>
+   
+
+    
+</body>
+</html>
